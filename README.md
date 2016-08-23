@@ -22,7 +22,7 @@ tar -zxvf pycrypto-2.6.1.tar.gz
 cd pycrypto-2.6.1
 python setup.py build
 
-cd build/lib<tab> (directory name could be different - tab-completing it here.)
+cd build/lib<tab> (directory name could be different - tab-completing it)
 cp Crypto/Hash/*.so /usr/local/src/GoogleMusic.bundle/Contents/Libraries/Shared/Crypto/Hash/
 cp Crypto/Util/*.so /usr/local/src/GoogleMusic.bundle/Contents/Libraries/Shared/Crypto/Util/
 cp Crypto/Cipher/*.so /usr/local/src/GoogleMusic.bundle/Contents/Libraries/Shared/Crypto/Cipher/
@@ -34,7 +34,7 @@ mv /usr/local/src/GoogleMusic.bundle/ /var/lib/plexmediaserver/Library/Applicati
 
 3. Add your Google username and password in the plugin settings after installation.
 
-**Logs:**
+**Plugin Logs:**
 
 ```
 /var/lib/plexmediaserver/Library/Application\ Support/Plex\ Media\ Server/Logs/PMS\ Plugin\ Logs/com.plexapp.plugins.googlemusic.log
