@@ -1,7 +1,9 @@
 Google Play Music channel plugin for Plex
 =========================================
 
-[![](./Contents/Resources/icon-default.png =250x250)](https://play.google.com/music/)
+<a href="https://play.google.com/music/">
+<img src="https://github.com/sjlouw/GoogleMusic.bundle/raw/master/Contents/Resources/icon-default.png" width="256" height="256" border="0">
+</a>
 
 A Plex channel plugin for Google Play Music. An All Access account is not required but many of the features will not work without one. Original source cloned from **jwdempsey's** [fixed branch](https://github.com/pablorusso/GoogleMusic.bundle/tree/update_gmusicapi_fix_login)
 
