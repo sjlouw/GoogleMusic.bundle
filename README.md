@@ -20,6 +20,7 @@ git clone https://github.com/sjlouw/GoogleMusic.bundle
 **NOTE:** You will need some dependencies like "python-devel" and "gcc" to compile. Install as needed.
 
 ```
+sudo apt-get install gcc python python-dev
 wget https://pypi.python.org/packages/60/db/645aa9af249f059cc3a368b118de33889219e0362141e75d4eaf6f80f163/pycrypto-2.6.1.tar.gz
 tar -zxvf pycrypto-2.6.1.tar.gz
 
